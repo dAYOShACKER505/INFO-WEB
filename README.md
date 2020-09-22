@@ -1,5 +1,5 @@
 # INFO-WEB
-Website information gayhering tool 2020.
+Website information gathering tool 2020.
 
 
 
@@ -12,3 +12,6 @@ $ cd INFO-WEB
 $ chmod +x *
 
 $ php infoweb.php
+
+
+#DevilanD
