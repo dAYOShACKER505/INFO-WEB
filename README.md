@@ -15,3 +15,6 @@ $ php infoweb.php
 
 
 # DevilanD
+#Donate me
+#BTC Address
+3NyAqCN5YvtXSCCxcAgr43uzugSqGLGYaK
