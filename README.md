@@ -14,10 +14,10 @@ $ chmod +x *
 $ php infoweb.php
 
 
-# DevilanD
+# DevilanD facebook page:
+https://www.facebook.com/learntermux1linux1/
 
 
 
-# Donate me
 # BTC Address
 3NyAqCN5YvtXSCCxcAgr43uzugSqGLGYaK
