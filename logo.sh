@@ -38,7 +38,7 @@ echo "   ${RED}                  Mc       'NM"
 echo "   ${RED}                  M0.      .XM"
 echo "   ${RED}                 MN'      .0M"
 echo "   ${RED}               MX'      ,XM"
-echo "   ${RED}              MK.      :WM                                           /0clM
+echo "   ${RED}              MK.      :WM                                           /0clM"
 echo "   ${RED}            MWl.     .xM                                           MXd,  xM"
 echo "   ${RED}           M0'      .KM                                         MKo,.   cM"
 echo "   ${RED}          Wl.      cNM                                       MKxc.     .kM"
